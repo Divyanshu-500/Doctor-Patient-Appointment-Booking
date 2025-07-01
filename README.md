@@ -106,7 +106,7 @@ Create a full-stack web application for doctor-patient appointment booking with 
 - Emphasis on clean, readable code and best practices
 - Functionality is prioritized over UI design
 
-<h2 align="center">Getting Started</h2>
+<h2>Getting Started</h2>
 
 1. Clone the repository to your local machine.
 2. Set up the backend API using Express and Mongoose (provide instructions if necessary).
@@ -114,14 +114,14 @@ Create a full-stack web application for doctor-patient appointment booking with 
 4. Run `npm install` to install the required dependencies.
 5. Run `npm start` to start the development server.
 
-<h2 align="center">Contribution </h2>
+<h2>Contribution </h2>
 
 I am excited to welcome contributions to the **Doctor-Patient Appointment Booking** project!  
 Got a suggestion, improvement, or bug to report? Feel free to open an issue.  
 Want to enhance the project directly? Submitting a pull request is highly appreciated!
 
 
-<h2 align="center">Show Your Support</h2>
+<h2>Show Your Support</h2>
 
 If you find this project helpful or inspiring, don’t forget to **star ⭐️ the repo** — it really helps!
 
