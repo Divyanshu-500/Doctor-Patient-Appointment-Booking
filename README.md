@@ -7,7 +7,7 @@ Developed a full-stack doctor-patient appointment booking web app using Node.js 
 
 ![Register](https://github.com/user-attachments/assets/a5ddc808-2dcf-46fc-ba01-c1036452e45e)
 ![Login](https://github.com/user-attachments/assets/359d3d64-e0a2-431a-9a4b-e81931e2f88c)
-![Patient login](https://github.com/user-attachments/assets/9a0a779f-fea9-428d-9cb5-56be1362979b)
+
 ![Booking Appointment](https://github.com/user-attachments/assets/238ae310-9e62-4c3d-8029-2921501a508b)
 
 
