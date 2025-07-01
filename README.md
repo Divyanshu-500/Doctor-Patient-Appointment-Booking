@@ -1,7 +1,7 @@
-<h1 align="center">🩺 Doctor-Patient-Appointment-Booking 🩺</h1>
+<h1>🏥 Doctor-Patient-Appointment-Booking 🏥</h1>
 
 
-<p align="center">
+<p>
 Developed a full-stack doctor-patient appointment booking web app using Node.js and modern frontend technologies. Key features include Google Calendar integration for scheduling, secure authentication with JWT/sessions, and role-based access control. Implemented user-friendly UIs for registration, login, and dashboards. Data is persisted using MongoDB/PostgreSQL. Additional features include notifications, rescheduling, and doctor search. Focused on code clarity, security, and functional robustness over design aesthetics.
 </p>
 
